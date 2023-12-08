@@ -1,5 +1,12 @@
 # ТЗ мобильного приложения FakeNFT
 
+![3  Onboarding-2](https://github.com/Konstantin-vetro/iOS-FakeNFT-StarterProject-Public/assets/124914005/13660354-5faf-41df-af15-551a869a30fc)
+![1  Профиль](https://github.com/Konstantin-vetro/iOS-FakeNFT-StarterProject-Public/assets/124914005/2c65780e-0819-448f-9142-f02f62b3ffa0)
+![2](https://github.com/Konstantin-vetro/iOS-FakeNFT-StarterProject-Public/assets/124914005/712c37c5-052a-4b3f-87d8-167411d14cc5)
+![3](https://github.com/Konstantin-vetro/iOS-FakeNFT-StarterProject-Public/assets/124914005/2e004ad6-f4f0-42b1-bedc-c423742bb873)
+![4](https://github.com/Konstantin-vetro/iOS-FakeNFT-StarterProject-Public/assets/124914005/45bd8a20-88b1-43c7-9b9e-800e60cbefc6)
+
+
 # Ссылки
 
 [Дизайн Figma](https://www.figma.com/file/k1LcgXHGTHIeiCv4XuPbND/FakeNFT-(YP)?node-id=96-5542&t=YdNbOI8EcqdYmDeg-0)
