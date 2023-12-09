@@ -8,6 +8,15 @@
 ![5](https://github.com/Konstantin-vetro/iOS-FakeNFT-StarterProject-Public/assets/124914005/194e6aec-f512-453c-a38c-cece6aeb41b6)
 ![55](https://github.com/Konstantin-vetro/iOS-FakeNFT-StarterProject-Public/assets/124914005/c7ba1771-a8fe-4e0b-ab66-a611979c0b3a)
 
+## Над проектом работали:
+
+**["Skoch33" ](https://github.com/Skoch33)** - экран Профиля
+
+**["AlekseiTinkov"](https://github.com/AlekseiTinkov)** - экран Корзины
+
+**["Timur Taneev"](https://github.com/taneev)** - экран Каталога
+
+Константин Ветров - экран Статистики, Onboarding
 
 # Ссылки
 
@@ -223,9 +232,3 @@ https://www.loom.com/share/69d81a6227864037be50e05800e2724b
 - экран «Корзина» — по названию;
 - экран «Мои NFT» — по рейтингу;
 - экран «Статистика» — по рейтингу.
-
-- ## Над проектом работали:
-
-**["Skoch33" ](https://github.com/Skoch33)**  
-**["Timur Taneev"](https://github.com/taneev)**  
-**["AlekseiTinkov"](https://github.com/AlekseiTinkov)** 
